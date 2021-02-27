@@ -24,7 +24,9 @@ Requirements :
 - Windows 10 v1803 or newer
 - OBS Studio Latest (prefferably the Git version)
 
-### 1. Open OBS Studio and add your video
+### 1. Open OBS Studio and add media sources
 
   You have to add a media source by clicking the '+' icon in the Sources section.
   Ideally, you'd want a short video of yours (about 1 minute) where you are sitting and staring at the screen naturally without much movement. The video will be looped through at 10 fps.
+
+### 2. Start the Virtual Camera
