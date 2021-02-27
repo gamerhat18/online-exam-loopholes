@@ -12,10 +12,9 @@ It is basically impractical to mitigate all the loopholes simultaneously, which 
 
 This method is tested under Linux and Windows. 
 
-Dependencies:
+Requirements :
 
 - Ubuntu 17.04 and above
 - Windows 10 1803+
-
-- Download the latest OBS Studio (prefferably the Git version)
+- OBS Studio Latest (prefferably the Git version)
 
