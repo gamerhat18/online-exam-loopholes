@@ -2,9 +2,9 @@
 This repository compiles a couple of methods to cheat in an online exam, which involves a Personal Phone/Computer, preferably not inside a campus/college. 
 Note: I DO NOT condone cheating as a valid option to pass in exams, but my college usually gives out all the questions w/ answers in advance, so I can develop this repository guilt-free.
 
-Feel free to contribute.
-It is basically impractical to mitigate all the loopholes simultaneously, which is why making these open source doesn't really hurt anyone.
+It is basically impractical for colleges to mitigate all the loopholes simultaneously, which is why making these open source won't really hurt the ones who wanna cheat.
 
+Feel free to contribute.
 
 # Camera method
 
