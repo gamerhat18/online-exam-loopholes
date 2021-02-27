@@ -10,13 +10,17 @@ Feel free to contribute.
 
 ## Setting up a virtual camera in which a short video with your face in it will be looped through for as long as the exam lasts.
 
-This method is tested under Linux and Windows. 
+This method is tested under Linux and Windows. Should work just fine with MacOS. 
 
 Requirements :
 
-- Ubuntu 17.04 or newer (Kernel 4.19+)
+- Ubuntu 18.04 or newer (Kernel 4.19+)
+  install `ffmpeg and v4l2loopback-dkms`
+
+  type `sudo modprobe v4l2loopback` before launching OBS Studio.
+
 - MacOS Mojave or newer
 - Windows 10 v1803 or newer
 - OBS Studio Latest (prefferably the Git version)
 
-  
+1. Open OBS Studio
