@@ -8,13 +8,15 @@ Feel free to contribute.
 
 # Camera method
 
-1. Setting up a virtual camera in which a short video with your face in it will be looped through for as long as the exam lasts.
+## 1. Setting up a virtual camera in which a short video with your face in it will be looped through for as long as the exam lasts.
 
 This method is tested under Linux and Windows. 
 
 Requirements :
 
-- Ubuntu 17.04 and above
-- Windows 10 1803+
+- Ubuntu 17.04 or newer (Kernel 4.19+)
+- MacOS Mojave or newer
+- Windows 10 v1803 or newer
 - OBS Studio Latest (prefferably the Git version)
 
+  
