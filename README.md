@@ -6,9 +6,9 @@ It is basically impractical for colleges to mitigate all the loopholes simultane
 
 Feel free to contribute.
 
-# Camera method
+# 1. Camera method
 
-## 1. Setting up a virtual camera in which a short video with your face in it will be looped through for as long as the exam lasts.
+## Setting up a virtual camera in which a short video with your face in it will be looped through for as long as the exam lasts.
 
 This method is tested under Linux and Windows. 
 
