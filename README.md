@@ -25,3 +25,6 @@ Requirements :
 - OBS Studio Latest (prefferably the Git version)
 
 ### 1. Open OBS Studio and add your video
+
+  You have to add a media source by clicking the '+' icon in the Sources section.
+  Ideally, you'd want a short video of yours (about 1 minute) where you are sitting and staring at the screen naturally without much movement. The video will be looped through at 10 fps.
