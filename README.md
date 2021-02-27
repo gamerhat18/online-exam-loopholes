@@ -24,4 +24,4 @@ Requirements :
 - Windows 10 v1803 or newer
 - OBS Studio Latest (prefferably the Git version)
 
-  1. Open OBS Studio
+### 1. Open OBS Studio
