@@ -16,9 +16,9 @@ Requirements :
 
 - Ubuntu 18.04 or newer (Kernel 4.19+)
 
-  install `ffmpeg and v4l2loopback-dkms`
+  - install `ffmpeg and v4l2loopback-dkms`
 
-  type `sudo modprobe v4l2loopback` before launching OBS Studio.
+  - type `sudo modprobe v4l2loopback` before launching OBS Studio.
 
 - MacOS Mojave or newer
 - Windows 10 v1803 or newer
