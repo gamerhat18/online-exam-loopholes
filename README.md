@@ -14,19 +14,21 @@ This method is tested under Linux and Windows. Should work just fine with MacOS.
 
 Requirements :
 
-- Ubuntu 18.04 or newer (Kernel 4.19+)
+- **Ubuntu 18.04 or newer (Kernel 4.19+)**
 
   - install `ffmpeg` and `v4l2loopback-dkms`
 
   - type `sudo modprobe v4l2loopback` before launching OBS Studio.
 
-- MacOS Mojave or newer
-- Windows 10 v1803 or newer
-- OBS Studio Latest (prefferably the Git version)
+- **MacOS Mojave or newer**
+- **Windows 10 v1803 or newer**
+- **OBS Studio Latest (prefferably the Git version)**
 
 ### 1. Open OBS Studio and add media sources
 
-  You have to add a media source by clicking the '+' icon in the Sources section.
+  You have to add a media source by clicking the '+' icon in the **Sources** section.
   Ideally, you'd want a short video of yours (about 1 minute) where you are sitting and staring at the screen naturally without much movement. The video will be looped through at 10 fps.
 
 ### 2. Start the Virtual Camera
+
+  Click on ""
