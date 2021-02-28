@@ -50,6 +50,9 @@ This method is tested under Linux and Windows. Should work just fine with MacOS.
 
 ## Asking a friend to send answers on your phone via text, while sharing your screen via Discord/Teamviewer so that your friend can see the questions. 
 
+![](img/remote.png)
+
+
 ### Requirements :
  
 - **Ubuntu 18.04** or newer **(Linux Kernel 4.19+)**
@@ -78,6 +81,9 @@ You can use the OBS Studio method inside the VM as well, while you search for an
 <summary>Setup KVM on Ubuntu based Distros (Almost same in other Distros as well)</summary>
 
 
+You can make a Linux VM or a Windows VM. However, this guide focuses on making a Windows VM, as the process is a relatively easier for Linux VM because you don'
+
+t have to download or install any drivers through an iso.
 
 ### Requirements:
 
@@ -85,6 +91,7 @@ You can use the OBS Studio method inside the VM as well, while you search for an
  
 Note that any Linux distribution will work just fine as long as it is somewhat recent, and can install `virt-manager` and `qemu`.
 This guide uses **Ubuntu 20.04** for the demo.
+
 
 # Creating a Virtual Machine in KVM
 This step-by-step guide will take you through setting up a CPU and memory efficient virtual machine to use with WinApps leveraging KVM, an open-source virtualization software contained in most linux distributions.
@@ -235,7 +242,7 @@ Leave everything as default and click `Next` through the installer. This will in
 - **MacOS Mojave or** newer
 
 
-Follow these guides:
+Follow these Links:
 
 > **(M1 and other Apple Silicon Macs):** 
 >
@@ -243,9 +250,11 @@ Follow these guides:
 >
 > [MacRumors](https://forums.macrumors.com/threads/success-virtualize-windows-10-for-arm-on-m1-with-alexander-grafs-qemu-hypervisor-patch.2272354/) by _1958llakin_
 
->**(Intel Mac/ Hackintosh):** [QEMU_ON_M1](https://gist.github.com/citruz/9896cd6fb63288ac95f81716756cb9aa) by _Citruz_
 
-</details>
+>**(Intel Mac/ Hackintosh):** [Parallels](https://www.parallels.com/)
+
+
+ </details>
 </p>
 
 
