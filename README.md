@@ -31,8 +31,8 @@ This method is tested under Linux and Windows. Should work just fine with MacOS.
 
 ### 1. Disable your current primary camera 
 
-  You don't strictly need to do this, but some exam softwares/websites might get a
-  Type `sudo modprobe uvcvideo`
+  You don't strictly need to do this, but some exam softwares/websites might get a suspicion about the fact that you have (possibly) more than one camera, if you already have one inbuilt or you have an external camera plugged in. You can disconnect it or you can disable it from the terminal.
+  To disable the camera, type `sudo modprobe uvcvideo` in your terminal
 
 
 ### 2. Open OBS Studio and add media sources
@@ -93,7 +93,7 @@ This guide uses **Ubuntu 20.04** for the demo.
 
 
 # Creating a Virtual Machine in KVM
-This step-by-step guide will take you through setting up a CPU and memory efficient virtual machine to use OBS Studio leveraging KVM, an open-source virtualization software contained in most linux distributions.
+This step-by-step guide will take you through setting up a CPU and memory efficient virtual machine to use OBS Studio and give exam at the same time.
 
 ## Install KVM
 First up, you must install KVM and the Virtual Machine Manager. By installing `virt-manager`, you will get everything you need for your distribution:
@@ -102,18 +102,15 @@ sudo apt-get install -y virt-manager
 ```
 
 ## Download the Windows Professional and KVM VirtIO drivers
-You will need Windows 10 Professional (or Enterprise or Server) to run RDP apps, Windows 10 Home will not suffice. You will also need drivers for VirtIO to ensure the best performance and lowest overhead for your system. You can download these at the following links.
+You will need the Windows 10 ISO. You will also need drivers for VirtIO to ensure the best performance and lowest overhead for your system. You can download these at the following links.
 
 Windows 10 ISO: https://www.microsoft.com/en-us/software-download/windows10ISO
 
 KVM VirtIO drivers (for all distros): https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/stable-virtio/virtio-win.iso
 
 ## Create your virtual machine
-The following guide will take you through the setup. If you are an expert user, you may wish to:
-- [Define a VM from XML (may not work on all systems)](#define-a-vm-from-xml)
-- [Run KVM in user mode](#run-kvm-in-user-mode)
 
-Otherwise, to set up the standard way, open `virt-manager` (Virtual Machines).
+Open `virt-manager` (Virtual Machines).
 
 ![](kvm/00.png)
 
