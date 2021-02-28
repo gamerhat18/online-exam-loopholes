@@ -22,11 +22,11 @@ This method is tested under Linux and Windows. Should work just fine with MacOS.
 
 - **MacOS Mojave** or newer
 
-  - install `brew install gstreamer`
+  - install homebrew and type `brew install gstreamer`
 
 - **Windows 10 v1803** or newer
 
-- **OBS Studio Latest** (prefferably the latest Git version)
+- **OBS Studio Latest** (preferably the latest Git version)
 
 
 ### 1. Disable your current primary camera 
