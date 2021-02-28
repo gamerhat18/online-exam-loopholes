@@ -93,7 +93,7 @@ This guide uses **Ubuntu 20.04** for the demo.
 
 
 # Creating a Virtual Machine in KVM
-This step-by-step guide will take you through setting up a CPU and memory efficient virtual machine to use with WinApps leveraging KVM, an open-source virtualization software contained in most linux distributions.
+This step-by-step guide will take you through setting up a CPU and memory efficient virtual machine to use OBS Studio leveraging KVM, an open-source virtualization software contained in most linux distributions.
 
 ## Install KVM
 First up, you must install KVM and the Virtual Machine Manager. By installing `virt-manager`, you will get everything you need for your distribution:
