@@ -13,7 +13,7 @@ Feel free to contribute.
 
 This method is tested under Linux and Windows. Should work just fine with MacOS. 
 
-Requirements :
+### Requirements :
 
 - **Ubuntu 18.04** or newer **(Linux Kernel 4.19+)**
 
@@ -50,7 +50,7 @@ Requirements :
 
 ## Asking a friend to send answers on your phone via text, while sharing your screen via Discord/Teamviewer so that your friend can see the questions. 
 
-Requirements :
+### Requirements :
  
 - **Ubuntu 18.04** or newer **(Linux Kernel 4.19+)**
   
