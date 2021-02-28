@@ -17,7 +17,7 @@ Requirements :
 - **Ubuntu 18.04** or newer **(Linux Kernel 4.19+)**
 
   - install `ffmpeg` and `v4l2loopback-dkms`
-  - type `sudo modprobe v4l2loopback` before launching OBS Studio.
+  - type `sudo modprobe v4l2loopback` right before launching OBS Studio.
 
 - **MacOS Mojave** or newer
 
@@ -27,14 +27,17 @@ Requirements :
 
 - **OBS Studio Latest** (prefferably the latest Git version)
 
-### 1. Open OBS Studio and add media sources
+
+### 1. Disable your current primary camera 
+
+  You don't strictly need to do this, but some exam softwares/websites might get a
+  Type `sudo modprobe uvcvideo`
+
+
+### 2. Open OBS Studio and add media sources
 
   You have to add a media source by clicking the '+' icon in the **Sources** section.
   Ideally, you'd want a short video of yours (about 1 minute) where you are sitting and staring at the screen naturally without much movement. The video will be looped through at 10 fps.
-
-### 2. Disable your current primary camera
-
-  You don't strictly need to do this, but some exam softwares/websites might get a suspicion if they detect two cameras on your system, but most won't care to begin with.
 
 
 ### 3. Start the Virtual Camera
@@ -44,4 +47,17 @@ Requirements :
 
 # 2. Remote Assistant method
 
-## Asking a friend to send answers on your phone via text, while sharing your screen using Discord/Teamviewer so that your friend can see the questions. 
+## Asking a friend to send answers on your phone via text, while sharing your screen via Discord/Teamviewer so that your friend can see the questions. 
+
+Requirements :
+ 
+- Ubuntu 18.04 or newer (Linux Kernel 4.19+)
+  
+- MacOS Mojave or newer
+ 
+- Windows 10 v1803 or newer
+
+- **Discord** or **TeamViewer** (both will work fine, but Teamviewer is usually more reliable)
+
+
+### 1. 
