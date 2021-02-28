@@ -32,7 +32,7 @@ Requirements :
   You have to add a media source by clicking the '+' icon in the **Sources** section.
   Ideally, you'd want a short video of yours (about 1 minute) where you are sitting and staring at the screen naturally without much movement. The video will be looped through at 10 fps.
 
-### 2. Disable your current primary camera.
+### 2. Disable your current primary camera
 
   You don't strictly need to do this, but some exam softwares/websites might get a suspicion if they detect two cameras on your system, but most won't care to begin with.
 
@@ -42,4 +42,6 @@ Requirements :
   Click on "**Start Virtual Camera**" and enter your password if asked for.
   Now the virtual camera is created by the name **OBS Virtual Camera** and you can check if it is working correctly by going to [https://webcammictest.com/](https://webcammictest.com/) and selecting "OBS Virtual Camera" on the website.
 
+# 2. Remnote Assistant method
 
+## Asking a friend to help you by sending answers via text on your phone, while they see your screen via Discord/Teamviewer. 
