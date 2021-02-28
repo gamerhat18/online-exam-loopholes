@@ -226,6 +226,18 @@ Leave everything as default and click `Next` through the installer. This will in
 </details>
 </p>
 
+<p>
+<details>
+<summary>Setup QEMU Virtualization on MacOS</summary>
+
+### Requirements: 
+
 - **MacOS Mojave or** newer
+
+Follow this guide (M1 and other Apple Silicon Macs): [Citruz QEMU_ON_M1](https://gist.github.com/citruz/9896cd6fb63288ac95f81716756cb9aa)
+
+</details>
+</p>
+
 
 - ❌ Windows virtualisation sucks. Just use Linux if you wanna go this route.
