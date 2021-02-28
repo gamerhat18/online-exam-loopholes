@@ -77,12 +77,14 @@ You can use the OBS Studio method inside the VM as well, while you search for an
 <details>
 <summary>Setup KVM on Ubuntu based Distros (Almost same in other Distros as well)</summary>
 
- Requirements:
 
-  - Ubuntu 18.04 or newer (Kernel 4.19+)
+
+### Requirements:
+
+  - **Ubuntu 18.04** or newer **(Kernel 4.19+)**
  
 Note that any Linux distribution will work just fine as long as it is somewhat recent, and can install `virt-manager` and `qemu`.
-
+This guide uses **Ubuntu 20.04** for the demo.
 
 # Creating a Virtual Machine in KVM
 This step-by-step guide will take you through setting up a CPU and memory efficient virtual machine to use with WinApps leveraging KVM, an open-source virtualization software contained in most linux distributions.
