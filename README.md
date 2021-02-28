@@ -32,6 +32,7 @@ This method is tested under Linux and Windows. Should work just fine with MacOS.
 ### 1. Disable your current primary camera 
 
   You don't strictly need to do this, but some exam softwares/websites might get a suspicion about the fact that you have (possibly) more than one camera, if you already have one inbuilt or you have an external camera plugged in. You can disconnect it or you can disable it from the terminal.
+  
   To disable the camera, type `sudo modprobe uvcvideo` in your terminal
 
 
