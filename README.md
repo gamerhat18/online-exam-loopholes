@@ -73,15 +73,15 @@ Requirements :
 Using a VM to run a software is probably the safest way to do it without compromising your security. 
 You can use the OBS Studio method inside the VM as well, while you search for answers on the host machine or on your phone.
 
-Requirements :
-  
-- **Ubuntu 18.04** or newer **(Kernel 4.19+)**
-
-Note that any Linux distribution will work just fine as long as it is somewhat recent, and can install `virt-manager` and `qemu`. 
-
 <p>
 <details>
 <summary>Setup KVM on Ubuntu based Distros (Almost same in other Distros as well)</summary>
+
+ Requirements:
+
+  - Ubuntu 18.04 or newer (Kernel 4.19+)
+ 
+Note that any Linux distribution will work just fine as long as it is somewhat recent, and can install `virt-manager` and `qemu`.
 
 
 # Creating a Virtual Machine in KVM
@@ -219,7 +219,7 @@ After you get into Windows and login with the user you created during the instal
 
 Leave everything as default and click `Next` through the installer. This will install device drivers as well as the Memory Ballooning service.
 
-***Thanks to this [amazing project](https://github.com/Fmstrat/winapps/) for the guide
+***Thanks to this [amazing project](https://github.com/Fmstrat/winapps/) for this guide :)***
 
 </details>
 </p>
