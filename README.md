@@ -42,6 +42,6 @@ Requirements :
   Click on "**Start Virtual Camera**" and enter your password if asked for.
   Now the virtual camera is created by the name **OBS Virtual Camera** and you can check if it is working correctly by going to [https://webcammictest.com/](https://webcammictest.com/) and selecting "OBS Virtual Camera" on the website.
 
-# 2. Remnote Assistant method
+# 2. Remote Assistant method
 
-## Asking a friend to help you by sending answers via text on your phone, while they see your screen via Discord/Teamviewer. 
+## Asking a friend to send answers on your phone via text, while sharing your screen using Discord/Teamviewer so that your friend can see the questions. 
