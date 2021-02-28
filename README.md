@@ -219,6 +219,8 @@ After you get into Windows and login with the user you created during the instal
 
 Leave everything as default and click `Next` through the installer. This will install device drivers as well as the Memory Ballooning service.
 
+***Thanks to this [amazing project](https://github.com/Fmstrat/winapps/) for the guide
+
 </details>
 </p>
 
