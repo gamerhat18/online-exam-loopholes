@@ -21,7 +21,7 @@ Requirements :
   - type `sudo modprobe v4l2loopback` before launching OBS Studio.
 
 - **MacOS Mojave** or newer
-- **Windows 10 v1803** or newer*
+- **Windows 10 v1803** or newer
 - **OBS Studio Latest** (prefferably the latest Git version)
 
 ### 1. Open OBS Studio and add media sources
