@@ -234,10 +234,15 @@ Leave everything as default and click `Next` through the installer. This will in
 
 - **MacOS Mojave or** newer
 
-Follow this guide (M1 and other Apple Silicon Macs): [Citruz QEMU_ON_M1](https://gist.github.com/citruz/9896cd6fb63288ac95f81716756cb9aa)
+
+Follow these guides:
+
+(M1 and other Apple Silicon Macs): [QEMU_ON_M1](https://gist.github.com/citruz/9896cd6fb63288ac95f81716756cb9aa) by _Citruz_
+
+(Intel Mac/ Hackintosh): [QEMU_ON_M1](https://gist.github.com/citruz/9896cd6fb63288ac95f81716756cb9aa) by _Citruz_
 
 </details>
 </p>
 
 
-- ❌ Windows virtualisation sucks. Just use Linux if you wanna go this route.
+> ❌ Windows virtualisation sucks. Just use Linux if you wanna go this route.
