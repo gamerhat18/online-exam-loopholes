@@ -17,7 +17,7 @@ This method is tested under Linux and Windows. Should work just fine with MacOS.
 
 - **Ubuntu 18.04** or newer **(Linux Kernel 4.19+)**
 
-  - install `ffmpeg` and `v4l2loopback-dkms`
+  - install `v4l2loopback-dkms`
   - type `sudo modprobe v4l2loopback` right before launching OBS Studio.
 
 - **MacOS Mojave** or newer
