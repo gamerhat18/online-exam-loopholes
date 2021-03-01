@@ -49,9 +49,13 @@ Feel free to contribute btw.
 
   If you experience bad performance or your computer gets slow, you can change some settings to make it run smoother. Just copy these settings as shown in these images and you won't suffer from bad performace anymore.
   
-![](img/obs-settings-1.png)
+| ![](img/obs-settings-1.png) |
+| --- |
+| Output Settings |
 
-![](img/obs-settings-2.png)
+| ![](img/obs-settings-2.png) |
+| --- |
+| Video Settings |
 
 ### 4. Start the Virtual Camera
 
