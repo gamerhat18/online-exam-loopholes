@@ -88,11 +88,11 @@ Feel free to contribute btw.
 
 - **A friend indeed** (smart enough to search exactly what you need)
 
-### 1. Initialisation
+### 1. Initialise
 
   Make sure you and your friend have a decent internet connection on both of your computers, and install Discord/TeamViewer on them.
 
-### 2. 
+### 2. Sharing is Caring
   
   Start Screen Sharing your screen to your friend's computer via Discord or let your friend connect to your PC via TeamViewer.
 
