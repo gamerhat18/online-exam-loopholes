@@ -111,6 +111,11 @@ Feel free to contribute btw.
 Using a VM to run a software is probably the safest way to do it without compromising your security. 
 You can use the OBS Studio method inside the VM as well, while you search for answers on the host machine or on your phone.
 
+
+| Windows running under KVM on Arch Linux |
+| --- |
+| ![](img/VM.png) |
+
 <p>
 <details>
 <summary>Setup KVM on Ubuntu based Distros (Almost same in other Distros as well)</summary>
