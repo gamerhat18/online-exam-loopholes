@@ -45,7 +45,11 @@ Feel free to contribute btw.
 ![](img/obs-1.png)
 
 
-### 3. Start the Virtual Camera
+### 3. Change settings for optimal performance
+
+
+
+### 4. Start the Virtual Camera
 
   Click on "**Start Virtual Camera**" and enter your password if asked for.
   Now the virtual camera is created by the name **OBS Virtual Camera** and you can check if it is working correctly by going to [https://webcammictest.com/](https://webcammictest.com/) and selecting "OBS Virtual Camera" on the website.
@@ -69,9 +73,13 @@ Feel free to contribute btw.
 
 - **A friend indeed** (smart enough to search exactly what you need)
 
-### 1. Make sure you and your friend have a decent internet connection on both of your computers, and install Discord/TeamViewer on them.
+### 1. Initialisation
 
-### 2. Start Screen Sharing your screen to your friend's computer via Discord or let your friend connect to your PC via TeamViewer.
+  Make sure you and your friend have a decent internet connection on both of your computers, and install Discord/TeamViewer on them.
+
+### 2. 
+  
+  Start Screen Sharing your screen to your friend's computer via Discord or let your friend connect to your PC via TeamViewer.
 
 ### 3. 
 
@@ -263,3 +271,6 @@ Follow these Links:
 
 
 ### ❌ Windows virtualisation sucks. Just use Linux if you wanna go this route.
+
+
+
