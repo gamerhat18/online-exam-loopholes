@@ -66,6 +66,8 @@ Feel free to contribute btw.
 
   Click on "**Start Virtual Camera**" and enter your password if asked for.
   Now the virtual camera is created by the name **OBS Virtual Camera** and you can check if it is working correctly by going to [https://webcammictest.com/](https://webcammictest.com/) and selecting "OBS Virtual Camera" on the website.
+  
+![](img/obs-test.gif)
 
 # B. Remote Assistant method
 
