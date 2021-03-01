@@ -7,7 +7,7 @@ It is basically impractical for colleges to mitigate all the loopholes simultane
 
 Feel free to contribute.
 
-# 1. Camera method
+# A. Camera method
 
 ## Setting up a virtual camera in which a short video with your face in it will be looped through for as long as the exam lasts.
 
@@ -47,7 +47,7 @@ This method is tested under Linux and Windows. Should work just fine with MacOS.
   Click on "**Start Virtual Camera**" and enter your password if asked for.
   Now the virtual camera is created by the name **OBS Virtual Camera** and you can check if it is working correctly by going to [https://webcammictest.com/](https://webcammictest.com/) and selecting "OBS Virtual Camera" on the website.
 
-# 2. Remote Assistant method
+# B. Remote Assistant method
 
 ## Asking a friend to send answers on your phone via text, while sharing your screen via Discord/Teamviewer so that your friend can see the questions. 
 
