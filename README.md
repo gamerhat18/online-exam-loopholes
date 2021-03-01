@@ -74,7 +74,7 @@ This method is tested under Linux and Windows. Should work just fine with MacOS.
 
 
 
-# 3. Virtual Machine method
+# C. Virtual Machine method
 
 ## Running the browser/software in a VM, and looking for answers in the host OS. 
 
