@@ -45,9 +45,13 @@ Feel free to contribute btw.
 ![](img/obs-1.png)
 
 
-### 3. Change settings for optimal performance
+### 3. Change settings for optimal performance (OPTIONAL)
 
+  If you experience bad performance or your computer gets slow, you can change some settings to make it run smoother. Just copy these settings as shown in these images and you won't suffer from bad performace anymore.
+  
+![](img/obs-settings-1.png)
 
+![](img/obs-settings-2.png)
 
 ### 4. Start the Virtual Camera
 
