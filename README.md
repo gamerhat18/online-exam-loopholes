@@ -57,6 +57,11 @@ Feel free to contribute btw.
 | --- |
 | ![](img/obs-settings-2.png) |
 
+| Sound Settings |
+| --- |
+| ![](img/obs-4.3.png) |
+
+
 ### 4. Start the Virtual Camera
 
   Click on "**Start Virtual Camera**" and enter your password if asked for.
