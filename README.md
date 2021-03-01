@@ -41,6 +41,7 @@ Feel free to contribute btw.
 
   You have to add a media source by clicking the '+' icon in the **Sources** section.
   Ideally, you'd want a short video of yours (about 1 minute) where you are sitting and staring at the screen naturally without much movement. The video will be looped through at 10 fps.
+![](img/obs-1.png)
 
 
 ### 3. Start the Virtual Camera
