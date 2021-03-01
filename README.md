@@ -6,7 +6,7 @@ Note: I DO NOT condone cheating as a valid option to pass in exams, but my colle
 It is basically impractical for colleges to mitigate all the loopholes simultaneously. They can try, but they'll probably just conducting exams offline if this ends up making them really paranoid.
 
 
-Feel free to contribute.
+Feel free to contribute btw.
 
 # A. Camera method
 
