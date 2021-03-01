@@ -121,13 +121,14 @@ You can use the OBS Studio method inside the VM as well, while you search for an
 <summary>Setup KVM on Ubuntu based Distros (Almost same in other Distros as well)</summary>
 
 
-You can make a Linux VM or a Windows VM. However, this guide focuses on making a Windows VM, as the process is a relatively easier for Linux VM because you don't have to download or install any drivers through an iso.
 
 ### Requirements:
 
   - **Ubuntu 18.04** or newer **(Kernel 4.19+)**
  
 Note that any Linux distribution will work just fine as long as it is somewhat recent, and can install `virt-manager` and `qemu`.
+
+You can make a Linux VM or a Windows VM. However, this guide focuses on making a Windows VM, as the process is a relatively easier for Linux VM because you don't have to download or install any drivers through an iso.
 
 This guide uses **Ubuntu 20.04** for the demo.
 
