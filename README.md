@@ -100,7 +100,7 @@ Feel free to contribute btw.
 
 ### 3. Give your exam
 
-  Just sit for the exam with your camera turned **ON**, while your friend sees the same questions as you do, and sends you the answers of them to your phone. You must make an arrangement to keep your phone very close to your computer screen (like keeping the phone infront your laptop screen).  
+  Just sit for the exam with your camera turned **ON**, while your friend sees the same questions as you do, and sends you the answers of them to your phone. You must make an arrangement to keep your phone very close to your computer screen (like keeping the phone infront your laptop screen shown in the image above).  
 
 
 
