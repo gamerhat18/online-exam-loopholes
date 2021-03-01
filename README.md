@@ -12,7 +12,7 @@ Feel free to contribute btw.
 
 ## Setting up a virtual camera in which a short video with your face in it will be looped through for as long as the exam lasts.
 
-This method is tested under Linux and Windows. Should work just fine with MacOS. 
+***This method is tested under Linux and Windows. Should work just fine with MacOS.*** 
 
 ### Requirements :
 
