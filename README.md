@@ -1,8 +1,8 @@
 # online-exam-loopholes
 This repository compiles a couple of methods to cheat in an online exam, which involves a Personal Phone/Computer, preferably not inside a campus/college. 
-Note: I DO NOT condone cheating as a valid option to pass in exams, but my college usually gives out all the questions w/ answers in advance, so I can develop this repository guilt-free.
+Note: I DO NOT condone cheating as a valid option to pass in exams, but my college basically told to copy , so I can develop this repository guilt-free.
 
-It is basically impractical for colleges to mitigate all the loopholes simultaneously, which is why making these open source won't really hurt the ones who wanna cheat.
+It is basically impractical for colleges to mitigate all the loopholes simultaneously. You can try, but you'll probably end up just conducting exams offline if it really makes you paranoid.
 
 
 Feel free to contribute.
