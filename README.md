@@ -66,7 +66,11 @@ This method is tested under Linux and Windows. Should work just fine with MacOS.
 
 - **A friend indeed** (smart enough to search exactly what you need)
 
-### 1. Make sure you and your friend have a decent internet connection on both of your computers. 
+### 1. Make sure you and your friend have a decent internet connection on both of your computers, and install Discord/TeamViewer on them.
+
+### 2. Start Screen Sharing your screen to your friend's computer via Discord or let your friend connect to your PC via TeamViewer.
+
+### 3. 
 
 
 
