@@ -153,7 +153,7 @@ KVM VirtIO drivers (for all distros): https://fedorapeople.org/groups/virt/virti
 
 Open `virt-manager` (Virtual Machines).
 
-![](kvm/00.png)
+![](img/00.png)
 
 Next, go to `Edit`->`Preferences`, and check `Enable XML editing`, then click the `Close` button.
 
