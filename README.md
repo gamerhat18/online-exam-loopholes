@@ -29,7 +29,7 @@ Feel free to contribute btw.
 
 - **Windows 10 v1803** or newer
 
-- **OBS Studio [Latest](https://obsproject.com/download)*** (version 26.1+)
+- **OBS Studio [Latest](https://obsproject.com/download)*** (version 26.1.2 or newer)
 
 ### 1. Disable your current primary camera 
 
