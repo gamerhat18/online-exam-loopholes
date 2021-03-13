@@ -27,8 +27,6 @@ Feel free to contribute btw.
 
 - **MacOS Mojave** or newer
 
-  - install homebrew and type `brew install gstreamer`
-
 - **Windows 10 v1803** or newer
 
 - **OBS Studio [Latest](https://obsproject.com/download)*** (version 26.0+)
