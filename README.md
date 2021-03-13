@@ -139,7 +139,7 @@ This step-by-step guide will take you through setting up a CPU and memory effici
 ## Install KVM
 First up, you must install KVM and the Virtual Machine Manager. By installing `virt-manager`, you will get everything you need for your distribution:
 ```bash
-sudo apt-get install -y virt-manager
+sudo apt install -y qemu qemu-kvm libvirt-daemon libvirt-clients bridge-utils virt-manager
 ```
 
 ## Download the Windows Professional and KVM VirtIO drivers
