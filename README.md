@@ -271,7 +271,7 @@ Leave everything as default and click `Next` through the installer. This will in
 
 <p>
 <details>
-<summary>Setup QEMU Virtualization on MacOS</summary>
+<summary>Setup Virtualization on MacOS</summary>
 
 ### Requirements: 
 
@@ -284,7 +284,7 @@ Follow these Links:
 >
 > [QEMU_ON_M1](https://gist.github.com/citruz/9896cd6fb63288ac95f81716756cb9aa) by _Citruz_
 >
->[MacRumors](https://forums.macrumors.com/threads/success-virtualize-windows-10-for-arm-on-m1-with-alexander-grafs-qemu-hypervisor-patch.2272354/) by _1958llakin_
+> [MacRumors](https://forums.macrumors.com/threads/success-virtualize-windows-10-for-arm-on-m1-with-alexander-grafs-qemu-hypervisor-patch.2272354/) by _1958llakin_
 
 
 > **Intel Mac/ Hackintosh:** [Parallels](https://www.parallels.com/)
