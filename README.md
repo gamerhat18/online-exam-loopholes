@@ -282,9 +282,10 @@ Follow these Links:
 
 > **M1 and other Apple Silicon Macs:** 
 >
-> [QEMU_ON_M1](https://gist.github.com/citruz/9896cd6fb63288ac95f81716756cb9aa) by _Citruz_
+> [QEMU ON M1](https://gist.github.com/citruz/9896cd6fb63288ac95f81716756cb9aa) by _Citruz_
 >
 > [MacRumors](https://forums.macrumors.com/threads/success-virtualize-windows-10-for-arm-on-m1-with-alexander-grafs-qemu-hypervisor-patch.2272354/) by _1958llakin_
+
 
 
 > **Intel Mac/ Hackintosh:** [Parallels](https://www.parallels.com/)
