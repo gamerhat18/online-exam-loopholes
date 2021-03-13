@@ -19,7 +19,11 @@ Feel free to contribute btw.
 - **Ubuntu 18.04** or newer **(Linux Kernel 4.19+)**
 
   - install `v4l2loopback-dkms`
-  - type `sudo modprobe v4l2loopback` right before launching OBS Studio.
+  - type the following right before launching OBS Studio.
+
+  > Chromium based Browsers: `sudo modprobe v4l2loopback exclusive_caps=1` 
+
+  > Firefox based Browsers: `sudo modprobe v4l2loopback`
 
 - **MacOS Mojave** or newer
 
