@@ -121,7 +121,6 @@ You can use the OBS Studio method inside the VM as well, while you search for an
 <summary>Setup KVM on Ubuntu based Distros (Almost same in other Distros as well)</summary>
 
 
-
 ### Requirements:
 
   - **Ubuntu 18.04** or newer **(Kernel 4.19+)**
